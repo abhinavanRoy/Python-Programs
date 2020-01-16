@@ -1,5 +1,5 @@
 
-#checking even or odd
+#function to check even or odd
 def eocheck(i):
     if(i%2) == 0:
         print(i, " is an even number!")
